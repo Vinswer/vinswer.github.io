@@ -3,7 +3,7 @@ title: "Recognize global dysregulated mRNA-miRNA pairs across multiple cancer ty
 differential correlation."
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: "https://dl.acm.org/doi/10.1145/3448748.3448991"
 excerpt: 'This article uses bioinformatics techniques to identify dysregulated mRNA-miRNA pairs in various cancers.'
 date: 2021-03-21
 venue: 'BIC 2021'
