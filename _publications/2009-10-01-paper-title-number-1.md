@@ -6,7 +6,7 @@ category: manuscripts
 permalink: "https://dl.acm.org/doi/10.1145/3448748.3448991"
 excerpt: 'This article uses bioinformatics techniques to identify dysregulated mRNA-miRNA pairs in various cancers.'
 date: 2021-03-21
-venue: 'BIC 2021'
+venue: 'BIC'
 
 citation: 'Yuzhen C., Luoyao C. (2021) Recognize global dysregulated mRNA-miRNA pairs across multiple cancer types using differential correlation. BIC 2021 (DOI: 10.1145/3448748.3448991)'
 ---
