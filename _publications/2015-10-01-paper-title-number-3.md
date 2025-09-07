@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 3"
+title: "ALV-J inhibits autophagy through the GADD45β/MEKK4/P38MAPK signaling pathway and mediates apoptosis following autophagy"
 collection: publications
 category: manuscripts
 redirect_to: "https://www.nature.com/articles/s41419-020-02841-y"
