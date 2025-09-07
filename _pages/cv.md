@@ -17,7 +17,7 @@ Education
 Project experience
 ======
 * Summer 2025: Deep Learning-Based Multiclass Cancer Classification from Histopathology 
-Images
+Images 
   * Medical image preprocessing: Implemented color normalization and H&E staining separation algorithms using 
 Python based on the PatchCamelyon dataset to address histopathology image variations
   * Deep Learning Model Development: Developed multi-class cancer classification models using PyTorch with 
@@ -26,7 +26,7 @@ statistical evaluation of training, validation, and performance metrics (AUC, se
   * Model Interpretation: Applied Grad-CAM visualization to generate heatmaps highlighting discriminative regions, 
 enabling pathologists to interpret and validate results.
 
-* Spring 2024: Master thesis **Automatic estimate chicken pose using Python pipeline**
+* Spring 2024: Master thesis **Automatic estimate chicken pose using Python pipeline** [[github]](https://github.com/Vinswer/pose_estimation)
   * Data pre-processing: Python and C++ were used to write scripts for video frame extraction and batch process largescale farm monitoring video data 
   * Deep learning model development: CVAT was used for image annotation and trained key point detection models 
 based on the YOLOv8 architecture, achieving 99.5% accuracy in poultry posture recognition tasks, with complete 
@@ -35,7 +35,7 @@ experience from data annotation to model deployment
 successfully identify abnormal behavior of lameness
   * Supervisor: Dr. Marjaneh Taghavi, Dr. Istvan Fodor & Dr. Malou van der Sluis
 
-* Spring 2025: Internship at Lely **Use Few-Shot Learning to identify cows**
+* Spring 2025: Internship at Lely **Use Few-Shot Learning to identify cows** [[github]](https://github.com/Vinswer/cowidentification)
   * Developed and implemented an image-based deep learning model, achieving 79.9% accuracy and 96.1% Top-5 
 accuracy in a farm with 40 cows under limited labeled data conditions (only 10 images per cow)
   * Optimized model performance by fine-tuning hyperparameters to strike a balance between accuracy and 
